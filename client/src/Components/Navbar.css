@@ -1,0 +1,11 @@
+@media (max-width: 767px) {
+.center-div{
+width: 20rem
+}
+
+.center-item{
+    display: flex;
+    justify-content: center;
+}
+
+}
